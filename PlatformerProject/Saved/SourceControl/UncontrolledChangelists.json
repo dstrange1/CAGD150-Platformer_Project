@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dylan/Downloads/PlatformerProject/Content/Level1.umap",
+				"C:/Users/Dylan/Downloads/PlatformerProject/Content/NewFolder/Level1.umap",
+				"C:/Users/Dylan/Downloads/PlatformerProject/Content/Levels/Level1.umap"
+			]
+		}
+	]
+}
